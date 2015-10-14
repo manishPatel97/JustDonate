@@ -1,4 +1,4 @@
-# JustDonate: Android Application for Blood Donation
+# JustDonate
 
 ### Activites
 - Login for User

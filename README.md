@@ -18,8 +18,10 @@
 
 | Name | Activities          |
 | ------------- | ----------- |
-| Sahil Babbar  | Login, Sign up for User and Organisation|
+| Sahil         | Login, Sign up for User and Organisation|
 | Sameer        | Maps + Upcoming Camps for User|
 | Rupam         | History + Dashboard for User and Organisation|
 | Jai           | Blood Request + Emergency|
 | Manish        | Organising Camp for Organisation + Camp Feedback|
+
+*Read the guidelines on BackPack for more details*
